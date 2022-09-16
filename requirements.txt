@@ -22,7 +22,7 @@ itsdangerous==0.24
 jedi==0.11.0
 Jinja2==2.9.6
 kombu==4.1.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 numpy==1.13.3
 oauth2client==3.0.0
